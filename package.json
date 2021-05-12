@@ -1,1 +1,19 @@
-{}
+{
+  "name": "graphql-apollo",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anahelenasilva/graphql-apollo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anahelenasilva/graphql-apollo/issues"
+  },
+  "homepage": "https://github.com/anahelenasilva/graphql-apollo#readme"
+}
